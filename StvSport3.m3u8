@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=1837680,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
+https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/1080p-cc/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1837680,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1280x720
+https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/720p-cc/index.m3u8
