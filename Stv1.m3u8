@@ -1,3 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1980x1080
-http://zavartv.badinan.xyz:1935/live/ZAVAR-TV/chunklist_w1703631677.m3u8
+https://s2.news-api-gen.lol//osn_fan/index.m3u8?token=fd32f1bd7d213a4120b0f598de21858c8fc3d86f-999ff9399897bfc0f39ce90654c8110b-1765303594-1765292794&remote=185.187.78.21/osn_fan/index.m3u8?token=d0e7fc250f14a05d310dc1ec3022c9444361ac7d-8c128be8e5d622b81e3c45a321db31fc-1765303595-1765292795&remote=185.187.78.21
