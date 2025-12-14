@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2628000,RESOLUTION=1920x1080
-http://159.69.15.196/upload/images/logo0.zip
+http://iptv.karwan.tv:8080/live/26323991472815/qwe321/149.m3u8?mac=C3:FB:AA:0A:F5:5B&appname=Karwan.TV
