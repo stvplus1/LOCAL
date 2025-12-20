@@ -1,3 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1980x1080
-http://142.132.133.190:1935/live/befrintv/chunklist_w759398487.m3u8
+https://cdn.karwan.tv/befrin-tv/tracks-v1a1/mono.m3u8
