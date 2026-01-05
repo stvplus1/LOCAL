@@ -1,12 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
-http://109.123.245.192/Zedplus/index.m3u8
-
-
-
-#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
-http://cf.wanotv.life:80/live/fceca1f2ca8b/927a88e99f/1310901.m3u8
-
-
-#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=560x160
-https://rashaba.com/upload/videos/2025/06/gUAFh41BjuiosJz/n4FwG2yLtWlUCEuMHi6J_29_1e9142adab05be6914651f6873f02e1a_video_360p_converted.m3u8
+http://109.123.245.192/Zedplus/tracks-v1a1/mono.m3u8
