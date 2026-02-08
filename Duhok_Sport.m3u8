@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1837680,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
-http://88.99.98.44:40/live/stvsport/chunklist.m3u8
+http://45.155.226.136:8085/local/ku/local-Duhok-Sport/index.m3u8?md5=iVezFBKXfn8j_2q5HVpVWg&expires=1770652586&type=a1&info=8c7d6c7400001f61
