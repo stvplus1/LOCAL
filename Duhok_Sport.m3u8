@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1837680,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
-http://45.155.226.136:8085/local/ku/local-Duhok-Sport/index.m3u8?md5=iVezFBKXfn8j_2q5HVpVWg&expires=1770652586&type=a1&info=8c7d6c7400001f61
+https://live3.karwan.tv/duhok-tv-sport/index.mpd?token=b6ff2c879c5d923f2bb04f96d0ff8892aaf63b2f-6b4b20df2b74fc9067de4463537d7b26-1770582349-1770571549&remote=no_check_ip
