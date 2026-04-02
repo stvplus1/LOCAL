@@ -1,7 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=1280x720
-http://avrstream.com:1935/live/ala-hd/chunklist_w511292348.m3u8
-
-
-#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=832x468
-https://rashaba.com/upload/videos/2025/06/9akzGUFzFVwwDep/DHTq6d_24_9akzGUFzFVwwDep_360p_converted.m3u8
+http://avrstream.com:1935/live/ala-hd/tracks-v1a1/mono.m3u8
