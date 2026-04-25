@@ -1,0 +1,66 @@
+#EXTM3U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#PLAYLIST:STv+ Channels
+
+# --- کەتێگۆرییا کوردی ---
+
+#EXTINF:-1 tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_6950fef58351e.png" group-title="Kurdi",ST✓ One
+http://baskhd2.ddns.net:1935/live/stvone/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_6950fef58351e.png" group-title="Kurdi",ST√ TOW
+http://baskhd2.ddns.net:1935/live/stvtow/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Waar_tv.png" group-title="Kurdi",WAAR TV
+https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cdn-files-a.com/uploads/278563/400_6714468edde05.png" group-title="Kurdi",RUDAW TV
+https://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/TRT_Kurd%C3%AE_logosu.png" group-title="Kurdi",TRT KURDÎ
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+
+# --- کەتێگۆرییا عەرەبی (MBC Group) ---
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_16472926.png?v=1" group-title="Arabic",MBC 1
+https://raw.githubusercontent.com/stvplus1/Arabic/refs/heads/main/MBC1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_16472927.png?v=1" group-title="Arabic",MBC 2
+https://raw.githubusercontent.com/stvplus1/Arabic/refs/heads/main/MBC2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_16472928.png?v=1" group-title="Arabic",MBC 3
+https://raw.githubusercontent.com/stvplus1/Arabic/refs/heads/main/Mbc3.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_16472952.png?v=1" group-title="Arabic",MBC 4
+https://raw.githubusercontent.com/stvplus1/Arabic/refs/heads/main/Mbc4.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_16472953.png?v=1" group-title="Arabic",MBC 5
+https://raw.githubusercontent.com/stvplus1/Arabic/refs/heads/main/Mbc5.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_16472954.png?v=1" group-title="Arabic",MBC Max
+https://raw.githubusercontent.com/stvplus1/Arabic/refs/heads/main/MbcMax.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_16474321.png?v=1" group-title="Arabic",MBC Iraq
+https://raw.githubusercontent.com/stvplus1/Arabic/refs/heads/main/MbcIraq.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_16497736.png?v=1" group-title="Arabic",MBC Masr
+https://raw.githubusercontent.com/stvplus1/Arabic/refs/heads/main/MbcMasr.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_16596641.png?v=1" group-title="Arabic",MBC Action
+https://raw.githubusercontent.com/stvplus1/Arabic/refs/heads/main/MbcAction.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.dmcdn.net/u/7PeLt1RActKpkwDyg/240x240" group-title="Arabic",MBC Drama
+https://raw.githubusercontent.com/stvplus1/Arabic/refs/heads/main/MbcDrama.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_16474303.png?v=1" group-title="Arabic",MBC Bollywood
+https://raw.githubusercontent.com/stvplus1/Arabic/refs/heads/main/MbcBllywood.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_6848c8565832f.png" group-title="Arabic",Shahid Action
+https://raw.githubusercontent.com/stvplus1/Arabic/refs/heads/main/ShahidAction.m3u8
+
+# --- کەتێگۆرییا وەرزشێ ---
+
+#EXTINF:-1 tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_6950fef58351e.png" group-title="Sport",ST✓ SPORT
+http://baskhd2.ddns.net:1935/live/stvsport/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cdn-files-a.com/uploads/278563/400_69ebca6f9ef9e.png" group-title="Sport",AD PREMIUM 1
+https://sps1.starzplayarabia.com/out/v1/56d8b44c7b9a4eaeae45bd9f5f509af5/index.mpd
