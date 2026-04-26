@@ -10,6 +10,17 @@ http://baskhd2.ddns.net:1935/live/stvone/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_6950fef58351e.png" group-title="Kurdi",ST√ TOW
 http://baskhd2.ddns.net:1935/live/stvtow/chunklist.m3u8
 
+
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_16521546.png?v=1" group-title=" Kurdi", Zarok Sorani
+https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/ZarokSorani.m3u8
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_16516253.png?v=1" group-title=" Kurdi", Zarok Kurmançi
+https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/ZarokBadini.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Waar_tv.png" group-title="Kurdi",WAAR TV
 https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
 
