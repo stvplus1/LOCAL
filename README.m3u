@@ -10,6 +10,8 @@ http://baskhd2.ddns.net:1935/live/stvone/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_6950fef58351e.png" group-title=" Kurdi",ST√ TOW
 http://baskhd2.ddns.net:1935/live/stvtow/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_6950fef58351e.png" group-title="Sport",ST✓ SPORT
+http://baskhd2.ddns.net:1935/live/stvsport/chunklist.m3u8
 
 
 
@@ -25,7 +27,7 @@ http://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/Rudaw.m3u8
 
 
 #EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_6763374.png?v=4" group-title=" Kurdi", K24 HD
-http://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/k24.m3u8
+https://bit.ly/3wjzURI
 
 
 #EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_16385064.png?v=3" group-title=" Kurdi", Channel 8HD
@@ -259,10 +261,10 @@ https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/ZarokSorani.m3u
 #EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_16516253.png?v=1" group-title=" Kurdi", Zarok Kurmançi
 https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/ZarokBadini.m3u8
 
-#EXTINF:-1 tvg-logo="https://files.cdn-files-a.com/uploads/278563/400_6714468edde05.png" group-title="Kurdi",RUDAW TV
+#EXTINF:-1 tvg-logo="https://files.cdn-files-a.com/uploads/278563/400_6714468edde05.png" group-title=" Kurdi",RUDAW TV
 https://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/TRT_Kurd%C3%AE_logosu.png" group-title="Kurdi",TRT KURDÎ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/TRT_Kurd%C3%AE_logosu.png" group-title=" Kurdi",TRT KURDÎ
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 
 # --- کەتێگۆرییا عەرەبی (MBC Group) ---
@@ -305,8 +307,6 @@ https://raw.githubusercontent.com/stvplus1/Arabic/refs/heads/main/ShahidAction.m
 
 # --- کەتێگۆرییا وەرزشێ ---
 
-#EXTINF:-1 tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_6950fef58351e.png" group-title="Sport",ST✓ SPORT
-http://baskhd2.ddns.net:1935/live/stvsport/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://files.cdn-files-a.com/uploads/278563/400_69ebca6f9ef9e.png" group-title="Sport",AD PREMIUM 1
 https://sps1.starzplayarabia.com/out/v1/56d8b44c7b9a4eaeae45bd9f5f509af5/index.mpd
