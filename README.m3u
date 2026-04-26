@@ -4,10 +4,10 @@
 
 # --- کەتێگۆرییا کوردی ---
 
-#EXTINF:-1 tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_6950fef58351e.png" group-title="Kurdi",ST✓ One
+#EXTINF:-1 tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_6950fef58351e.png" group-title=" Kurdi",ST✓ One
 http://baskhd2.ddns.net:1935/live/stvone/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_6950fef58351e.png" group-title="Kurdi",ST√ TOW
+#EXTINF:-1 tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_6950fef58351e.png" group-title=" Kurdi",ST√ TOW
 http://baskhd2.ddns.net:1935/live/stvtow/chunklist.m3u8
 
 
