@@ -13,16 +13,251 @@ http://baskhd2.ddns.net:1935/live/stvtow/chunklist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_68aeea3cabe7a.png" group-title=" Kurdi", Quran Tv
+https://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/Quran.m3u8
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_6763225.png?v=6" group-title=" Kurdi", Kurdistan tv
+http://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/KurdistanTv.m3u8
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_6763373.png" group-title=" Kurdi", RUDAW HD
+http://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/Rudaw.m3u8
+
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_6763374.png?v=4" group-title=" Kurdi", K24 HD
+http://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/k24.m3u8
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_16385064.png?v=3" group-title=" Kurdi", Channel 8HD
+http://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/Channel8.m3u8
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_6763233.png?v=4" group-title=" Kurdi", AVA TV
+https://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/AVA.m3u8?|referer=https://avamedia.live/
+
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_16414866.png?v=1" group-title=" Kurdi", Welat Tv
+https://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/WelatTv.m3u8
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_7027333.png?v=2" group-title=" Kurdi", Shams Tv
+https://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/Shams.m3u8
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://static1.s123-cdn-static-a.com/uploads/278563/400_622b733d9ba4c.png" group-title=" Kurdi", A tv 
+https://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/Atv.m3u8
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_68529657b3f81.png" group-title=" Kurdi", A 2 Tv 
+https://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/A2tv.m3u8
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_6874590.png?v=5" group-title=" Kurdi", WAAR tv
+https://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/WaarHD.m3u8
+
+#EXTINF:-1 tvg-id="CharityTV.lb" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_6763227.png?v=6" group-title=" Kurdi", kurmax badînî
+http://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/KurdMax.m3u8
+
+#EXTINF:-1 tvg-id="CharityTV.lb" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_6763227.png?v=6" group-title=" Kurdi", kurmax Soranî 
+http://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/KurdMaxs.m3u8
+
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://static1.s123-cdn-static-a.com/uploads/278563/400_622b732b6a491.png" group-title=" Kurdi", kurmax show Badînî 
+http://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/KurdMax_Show.m3u8
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://static1.s123-cdn-static-a.com/uploads/278563/400_622b732b6a491.png" group-title=" Kurdi", kurmax show Soranî 
+http://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/KurdMax_Shows.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_6763226.png?v=7" group-title=" Kurdi", kurmax Muzik
+http://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/KurdMax_Muzik.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://static1.s123-cdn-static-a.com/uploads/278563/400_630c0a337817d.png" group-title=" Kurdi", TRT KURDÎ
+http://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/TrtKurdi.m3u8
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_6874567.png?v=3" group-title=" Kurdi", Amozhgary
+https://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/amozhgary.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_6763234.png?v=5" group-title=" Kurdi", ZAGROS
+https://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/Zagrostv.m3u8
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_6874501.png?v=5" group-title=" Kurdi", kurd sat
+http://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/Kursat.m3u8
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_6763376.png?v=4" group-title=" Kurdi", kurdsat news
+http://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/KursatNews.m3u8
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_17019062.png?v=1" group-title=" Kurdi", Galikurdisatan
+http://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/GaliKurdistan.m3u8
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9ZJFHmcyaVoRPcfiDfO1GiWFmd9io_AkJcOAU7AA=s900-c-k-c0x00ffffff-no-rj" group-title=" Kurdi", KNN
+http://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/Knn.m3u8
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://static1.s123-cdn-static-a.com/uploads/278563/400_622b726042889.png" group-title=" Kurdi", NRT TV
+http://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/Nrt1.m3u8 
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_7192651.png?v=4" group-title=" Kurdi", NRT 2 audio 
+https://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/Nrt2.m3u8
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_6874539.png?v=2" group-title=" Kurdi", Speda Tv
+https://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/SpedaTv.m3u8?|referer=https://www.speda.net/tv1
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9288485.png?v=2" group-title=" Kurdi", Speda Drama
+https://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/SpedaDrama.m3u8?|referer=https://www.speda.net/tv1
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://static1.s123-cdn-static-a.com/uploads/278563/400_62fd5419e8d99.png" group-title=" Kurdi", payam tv
+https://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/Peyam.m3u8
+
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_17033836.png?v=1" group-title=" Kurdi", Kerkuk Tv
+https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/Kerkuk.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://static1.s123-cdn-static-a.com/uploads/278563/400_629df46e691af.png" group-title=" Kurdi", 4 KURD
+https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/4kurd.m3u8
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://dawa.center/images/61a6ba3817cb3.jpg" group-title=" Kurdi", Rehber tv
+https://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/Rehber.m3u8
+
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_699da35ddd2cf.png" group-title=" Kurdi", Nuçe Tv
+http://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/Nuce.m3u8
+
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_699da3401f87f.png" group-title=" Kurdi", Aryen HD
+http://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/ZoomTv.m3u8?|referer=http://wvvw.yari.live/
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_6874638.png?v=3" group-title=" Kurdi", STERK TV
+http://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/Sterk.m3u8
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_686bd49876b40.png" group-title=" Kurdi", Rojava TV
+https://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/Rojava.m3u8
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_6770795.png?v=3" group-title=" Kurdi", Ronahi TV
+https://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/Ronahi.m3u8
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_6874664.png?v=2" group-title=" Kurdi", MED tv
+http://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/MedMuzik.m3u8
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="http://stv-pro.wap.sh/Kurd/JIN-TV.png" group-title=" Kurdi", jin tv
+http://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/Jin.m3u8
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_689688d8bda18.png" group-title=" Kurdi",Media Habar
+http://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/MediaHabar.m3u8
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_688e2de22046a.png" group-title=" Kurdi", Çira tv
+http://stvplus.wap.sh/SemirTv/Livestream/Kurdish/CiraTv.m3u8
+
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_68a1b6fd9354a.png" group-title=" Kurdi",Kurd Tv
+https://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/KurdTv.m3u8
+
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_692db92bc5f13.png" group-title=" Kurdi",1 Tv
+https://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/1Tv.m3u8?|referer=https://veo.buzz/
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_692db92bc5f13.png" group-title=" Kurdi",2 Tv
+https://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/2Tv.m3u8?|referer=https://veo.buzz/
+
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_692db92bc5f13.png" group-title=" Kurdi",3 Tv
+https://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/3Tv.m3u8?|referer=https://veo.buzz/
+
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_692db92bc5f13.png" group-title=" Kurdi",4 Tv
+https://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/4Tv.m3u8?|referer=https://veo.buzz/
+
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_692db92bc5f13.png" group-title=" Kurdi",5 Tv
+https://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/5Tv.m3u8?|referer=https://veo.buzz/
+
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_692db92bc5f13.png" group-title=" Kurdi",6 Tv
+https://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/6Tv.m3u8?|referer=https://veo.buzz/
+
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_692db92bc5f13.png" group-title=" Kurdi",7 Tv
+https://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/7Tv.m3u8?|referer=https://veo.buzz/
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_692db92bc5f13.png" group-title=" Kurdi",8 Tv
+https://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/8Tv.m3u8?|referer=https://veo.buzz/
+
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_692db92bc5f13.png" group-title=" Kurdi",9 Tv
+https://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/9Tv.m3u8?|referer=https://veo.buzz/
+
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_692db92bc5f13.png" group-title=" Kurdi",10 Tv
+https://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/10Tv.m3u8?|referer=https://veo.buzz/
+
+
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_16516249.png?v=1" group-title=" Kurdi", afarin Tv
+https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/Afarin.m3u8
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_16516250.png?v=1" group-title=" Kurdi", Afarin Baxça
+https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/AfarinBaxca.m3u8
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_16516251.png?v=1" group-title=" Kurdi", Afarin Radio
+https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/AfarinRadio.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_6857fd0eb90aa.png" group-title=" Kurdi", KurdMax Pepule
+https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/KurdMax-Pepule.m3u8
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_6857fd203d900.png" group-title=" Kurdi", Pelistank Tv
+https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/Pelistank.m3u8
+
+
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_16516252.png?v=1" group-title=" Kurdi", Kidco Tv
+https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/Kidco.m3u8
+
+
+
 #EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_16521546.png?v=1" group-title=" Kurdi", Zarok Sorani
 https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/ZarokSorani.m3u8
 
 
 #EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_16516253.png?v=1" group-title=" Kurdi", Zarok Kurmançi
 https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/ZarokBadini.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Waar_tv.png" group-title="Kurdi",WAAR TV
-https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://files.cdn-files-a.com/uploads/278563/400_6714468edde05.png" group-title="Kurdi",RUDAW TV
 https://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8
