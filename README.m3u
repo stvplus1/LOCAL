@@ -262,7 +262,7 @@ https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/ZarokSorani.m3u
 https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/ZarokBadini.m3u8
 
 #EXTINF:-1 tvg-logo="https://files.cdn-files-a.com/uploads/278563/400_6714468edde05.png" group-title=" Kurdi",RUDAW TV
-https://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8
+https://live.rudaw.net/hls/rudaw-tv/stream_480p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/TRT_Kurd%C3%AE_logosu.png" group-title=" Kurdi",TRT KURDÎ
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
