@@ -4,6 +4,10 @@
 
 # --- کەتێگۆرییا کوردی ---
 
+
+#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_68aeea3cabe7a.png" group-title=" Kurdi", Quran Tv
+https://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/Quran.m3u8
+
 #EXTINF:-1 tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_6950fef58351e.png" group-title=" Kurdi",ST✓ One
 https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/StvMovies.m3u8
 
@@ -11,12 +15,11 @@ https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/StvMovies.m3u8
 http://baskhd2.ddns.net:1935/live/stvtow/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_6950fef58351e.png" group-title="Sport",ST✓ SPORT
-https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/StvSport.m3u8
+https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/beinKurd0.m3u8
 
 
 
-#EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://files.cdn-files-a.com/uploads/278563/800_68aeea3cabe7a.png" group-title=" Kurdi", Quran Tv
-https://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/Quran.m3u8
+
 
 #EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_6763225.png?v=6" group-title=" Kurdi", Kurdistan tv
 http://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/KurdistanTv.m3u8
