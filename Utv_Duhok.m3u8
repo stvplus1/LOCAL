@@ -1,3 +1,4 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
-http://new.vivatvs.uk:8080//live/c18zdcfgor/p0tqfl03fz/312694.m3u8
+
+http://217.76.62.187/hls/stv.m3u8
