@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
-http://max4kcdn.com:8080/live/5161699711/3840575058/119574.m3u8
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:6E:2A:20&stream=802141&extension=m3u8
 
